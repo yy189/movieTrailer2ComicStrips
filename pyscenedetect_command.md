@@ -1,0 +1,1 @@
+scenedetect --input 66TuSJo4dZM.mp4 --output my_video_scenes detect-content list-scenes save-images -n 1
