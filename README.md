@@ -13,6 +13,7 @@ train & test CartoonGAN or use a pretrained model to generate frames of specific
 img2comicstrips.py: lay out the result frames like in comic strips, insert subtitles at the right place and also page numbers.
 
 Some results:
-![paprika styled trailer of crazy on the outside](https://github.com/yy189/movieTrailers2ComicStrips/result_paprika.jpg)
 
-![hayao styled trailer of inception](https://github.com/yy189/movieTrailers2ComicStrips/result_hayao.jpg)
+![paprika styled trailer of crazy on the outside](https://github.com/yy189/movieTrailer2ComicStrips/blob/master/result_paprika.jpg)
+
+![hayao styled trailer of inception](https://github.com/yy189/movieTrailer2ComicStrips/blob/master/result_hayao.jpg)
